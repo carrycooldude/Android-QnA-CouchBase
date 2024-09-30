@@ -1,7 +1,7 @@
 package com.ml.carrycooldude.docqa.domain.embeddings
 
 import android.content.Context
-import com.ml.carrycooldude.sentence_embeddings.SentenceEmbedding
+import com.ml.shubham0204.sentence_embeddings.SentenceEmbedding
 import java.io.File
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking

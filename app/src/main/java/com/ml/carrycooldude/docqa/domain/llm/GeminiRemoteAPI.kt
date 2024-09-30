@@ -1,6 +1,7 @@
 package com.ml.carrycooldude.docqa.domain.llm
 
 import android.util.Log
+import com.google.ai.client.generativeai.BuildConfig
 import com.google.ai.client.generativeai.GenerativeModel
 import com.google.ai.client.generativeai.type.Content
 import com.google.ai.client.generativeai.type.GenerationConfig

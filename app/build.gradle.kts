@@ -11,11 +11,11 @@ plugins {
 val geminiKey: String = gradleLocalProperties(rootDir, providers).getProperty("geminiKey")
 
 android {
-    namespace = "com.ml.shubham0204.docqa"
+    namespace = "com.ml.carrycooldude.docqa"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.ml.shubham0204.docqa"
+        applicationId = "com.ml.carrycooldude.docqa"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
